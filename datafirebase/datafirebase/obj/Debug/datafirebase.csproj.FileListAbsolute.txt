@@ -1,0 +1,17 @@
+C:\Users\Hotpong\source\repos\datafirebase\datafirebase\bin\Debug\datafirebase.exe.config
+C:\Users\Hotpong\source\repos\datafirebase\datafirebase\bin\Debug\datafirebase.exe
+C:\Users\Hotpong\source\repos\datafirebase\datafirebase\bin\Debug\datafirebase.pdb
+C:\Users\Hotpong\source\repos\datafirebase\datafirebase\bin\Debug\FireSharp.dll
+C:\Users\Hotpong\source\repos\datafirebase\datafirebase\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Hotpong\source\repos\datafirebase\datafirebase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hotpong\source\repos\datafirebase\datafirebase\bin\Debug\RestSharp.dll
+C:\Users\Hotpong\source\repos\datafirebase\datafirebase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hotpong\source\repos\datafirebase\datafirebase\bin\Debug\RestSharp.xml
+C:\Users\Hotpong\source\repos\datafirebase\datafirebase\obj\Debug\datafirebase.csprojAssemblyReference.cache
+C:\Users\Hotpong\source\repos\datafirebase\datafirebase\obj\Debug\datafirebase.Form1.resources
+C:\Users\Hotpong\source\repos\datafirebase\datafirebase\obj\Debug\datafirebase.Properties.Resources.resources
+C:\Users\Hotpong\source\repos\datafirebase\datafirebase\obj\Debug\datafirebase.csproj.GenerateResource.cache
+C:\Users\Hotpong\source\repos\datafirebase\datafirebase\obj\Debug\datafirebase.csproj.CoreCompileInputs.cache
+C:\Users\Hotpong\source\repos\datafirebase\datafirebase\obj\Debug\datafirebase.csproj.CopyComplete
+C:\Users\Hotpong\source\repos\datafirebase\datafirebase\obj\Debug\datafirebase.exe
+C:\Users\Hotpong\source\repos\datafirebase\datafirebase\obj\Debug\datafirebase.pdb
